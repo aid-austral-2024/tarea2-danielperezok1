@@ -107,7 +107,7 @@ Permite comparar las curvas de densidad de dos híbridos.
 
 ### Menú Ambientes
 
-Muestra mapas geoespaciales de prescripciones, cosechas y márgenes netos.
+Muestra mapas geoespaciales de prescripciones, cosechas y márgenes netos. Este menú se utiliza funciones de fuzzy k means para clusterizacion de los datos espaciales y realizar un comparación de ajuste de ambientes entre lo predicho (prescripciones de siembra) y lo observado (mapa de cosecha). Luego se ofrece al usuario una tabla de contigencia (heat map) para observar las frecuencias relativas en cada ambiente "grado de acierto". 
 
 - **Funcionalidades:**
   - Análisis de coincidencia entre ambientes de prescripción y cosecha.
