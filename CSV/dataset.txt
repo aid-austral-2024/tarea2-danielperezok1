@@ -1,0 +1,2 @@
+Los archivos csv se obtienen de una base de datos que almancena los resultados de los modelos aplicados para cada tipo de ensayos (nxdxa o dxa), ademas incluyen las practicas de manejo y 
+  el año que se realizo. Los datos solo son ilustrativos. 
