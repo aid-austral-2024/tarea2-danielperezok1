@@ -7,6 +7,12 @@ La aplicación **FieldTrials AID** ha sido diseñada para optimizar la visualiza
 
 > **Nota:** Esta versión se encuentra exclusivamente para el trabajo práctico N°2 de la materia *Análisis Introductoria a la Ciencia de Datos* (no fue publicada). Los datos solo son a modo de ejemplo y no representan ninguna aproximación a lo que ocurre en el lote agrícola. Todo el desarrollo corresponde al autor.
 
+> **Acceso:** Para pobrar su funcionalidad en otro entorno, se logro publicar alojada en un servidor web para que el usuario puede ingresar directamente desde un link con una contraseña. 
+https://agriculturaexperta.com/fieldtrials-aid-austral/  Contraseña: demoaustral
+> 
+> Link directo a la app: https://agd-experta.shinyapps.io/FieldTrials/
+
+
 ---
 
 ## Problema
@@ -126,29 +132,19 @@ Resumen y análisis de tratamientos foliares.
 
 ## Beneficios Clave
 
-1. **Toma de Decisiones Informada:**
-   - Resultados confiables basados en datos integrados y modelos predictivos.
+1. **Toma de Decisiones Informada:** Resultados confiables basados en datos integrados y modelos predictivos.
 
-2. **Visualización Intuitiva:**
-   - Representaciones gráficas claras para identificar patrones rápidamente.
+2. **Visualización Intuitiva:** Representaciones gráficas claras para identificar patrones rápidamente.
 
-3. **Flexibilidad y Personalización:**
-   - Adaptación a las necesidades específicas de cada usuario o empresa.
+3. **Flexibilidad y Personalización:** Adaptación a las necesidades específicas de cada usuario o empresa.
 
-4. **Ahorro de Tiempo:**
-   - Automatización de cálculos y generación de informes.
-
+4. **Ahorro de Tiempo:**  Automatización de cálculos y generación de informes.
 ---
 
 ## Conclusión
 
 La aplicación **FieldTrials AID** representa un avance significativo en la integración de análisis agronómicos y tecnologías interactivas. Con herramientas para explorar, comparar y optimizar datos agronomicos, esta shiny está diseñada para ayudar a la comunicacion facil y practica. 
 
-## Anexo
-
-Para pobrar su funcionalidad en otro entorno, se logro publicar alojada en un servidor web para que el usuario puede ingresar directamente desde un link con una contraseña. 
-https://agriculturaexperta.com/fieldtrials-aid-austral/
-Contraseña: demoaustral
 
 
 
