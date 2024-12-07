@@ -1,0 +1,1 @@
+La carperta funciones se utilizan para optimzar el proceso de mejora del shiny, ya que generalmente siempre es lo que mas se modifica por bugs que genera o cambios en el diseño de los datos. 
