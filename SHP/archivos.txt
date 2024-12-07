@@ -1,0 +1,2 @@
+Los archivos en shp  incluyen mapas de cosecha y mapas de prescripciones en grilla de 20x20 o 10 x10 metros segun sea el caso. En cada atributo se encuentran los datos de la practica de manejo sitio especifico, 
+Densidad, fertilizacion o densidad solamente. 
